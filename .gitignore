@@ -1,0 +1,14 @@
+# Configurações do PyCharm
+.idea/
+*.iml
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
